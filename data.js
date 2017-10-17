@@ -26,7 +26,7 @@ var APP_DATA = {
       "initialViewParameters": {
         "yaw": -2.654918973496663,
         "pitch": -0.011344269046970723,
-        "fov": .1
+        "fov": 1.0
       },
       "linkHotspots": [
         {
